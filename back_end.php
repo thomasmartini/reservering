@@ -15,3 +15,4 @@ while($row = mysqli_fetch_assoc($result)){
 $klanten[] = $row;
 }
 print_r($klanten);
+

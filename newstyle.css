@@ -1,0 +1,39 @@
+section{
+
+    margin: 20px;
+    padding: 20px;
+    background: #2d2d2d;
+    font-family: "open sans", sans, sans-serif;
+    color: #dae4ed;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+
+}
+div, section {
+    box-sizing:border-box;
+    top: 50%;
+    left: 50%;
+}
+
+body {margin: 0;
+    background: #88b1d3;
+}
+
+.header{
+    padding: 30px;
+    background: #2d2d2d;
+    color: #dae4ed;
+    font-family: "open sans", sans, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    top: 0px;
+}
+
+main {
+    max-width: 800px;
+    margin : 0 auto;
+}

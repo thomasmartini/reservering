@@ -11,6 +11,7 @@
             <img class="slide fade" src="bckgrnd3.png" style="width:100%" height="100%">
             <img class="slide fade" src="bckgrn4.png" style="width:100%" height="100%">
         </div>
+        <div id="sectionTOS"
 <section>
     Terms of Service:<br><br>
     1. I have the rights to decline your commission request.<br>
@@ -50,6 +51,7 @@
         <input type="submit" value="Submit" class="btn">
     </form>
 </section>
+    </div>
 
 <script>
     var myIndex = 0;
